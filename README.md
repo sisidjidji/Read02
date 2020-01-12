@@ -26,8 +26,8 @@ these are how we oppen it on our comupters:
 
 ## 4.Basic Navigation:
 
-> pwd : It tells you what your current or present working directory
-> ls: It's short for list and it return what is in present directory 
-> cd: to move around in the system 
+-  pwd : It tells you what your current or present working directory
+-  ls: It's short for list and it return what is in present directory 
+-  cd: to move around in the system 
 
 
